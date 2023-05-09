@@ -9,6 +9,10 @@ links:
     description: Experiment in rudimentary databasing and interactive chatting with economy system.
     website: https://github.com/csjoey/DiscordEconBot
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: This website
+    description: Hugo source project for generating this website
+    website: https://github.com/csjoey/HugoPortfolio
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
         weight: 3

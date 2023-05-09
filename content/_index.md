@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        name: Posts
+        name: Home
         weight: 1
         params:
             icon: home
