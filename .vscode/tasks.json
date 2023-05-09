@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "hugo server -D",
             "group": {
-                "kind": "test",
+                "kind": "build",
                 "isDefault": true
             },
             "isBackground": true,
