@@ -11,5 +11,6 @@ tags:
 ---
 ### Job Search
 ```yaml
-    Open to hiring oppurtunities, working on updating the website to better reflect my skills and current intrests.
+    Open to hiring oppurtunities, working on updating the website to better 
+    reflect my skills and current intrests.
 ```
