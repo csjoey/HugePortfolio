@@ -9,7 +9,7 @@ tags:
 #    - Pinned
 
 ---
-### Pass Calc II
+### Job Search
 ```yaml
-    pray for me
+    Open to hiring oppurtunities, working on updating the website to better reflect my skills and current intrests.
 ```
