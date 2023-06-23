@@ -1,3 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Joseph Loporto</title><link>https://josephloporto.com/page/</link><description>Recent content in Pages on Joseph Loporto</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://josephloporto.com/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://josephloporto.com/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://josephloporto.com/about-me/</guid><description>&lt;p>Growing up in Delaware, I became interested in programming from a young age. At around 12 years old I began to try and understand C code in order to tinker with RPG maker. Though as you can imagine this did not go well for a 12 year old, this curiosity laid the groundwork for the coming years, where I would begin in my early teens to program in visual basic, and TI basic. Continuing on to college, I carried with me an obsession for optimization and performance.&lt;/p>
-&lt;p>Something that has frequently been an issue for my work as a computer scientist is the speed at which I wish to have a project completed. Often I will sprint to have a minimum viable product created for the sake of showing to those I wish to, such as when creating my discord bot. This leads to various issues such as degradation of quality. On the flip side of this, I struggle as many of us do with the idea of perfection. When I take time to be meticulous, and comb over details of a program, I will sometimes become so enthralled, than when I take a step back I see I have not done much, such as when creating my ant pathfinding simulation.&lt;/p>
-&lt;p>At the intersection of these two issues I now seek to maintain a state of quality when I work. Though I am also careful to make progress when necessary. On a larger level the works I have completed, and not completed in the last couple of years have taught me to be a steady worker, while also valuing quality. To supervise ourselves in our work in both quality and speed is truly a lifelong journey we all constantly refine.&lt;/p></description></item><item><title>Released Projects</title><link>https://josephloporto.com/released-projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://josephloporto.com/released-projects/</guid><description/></item><item><title>Search</title><link>https://josephloporto.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://josephloporto.com/search/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Joseph Loporto</title>
+        <link>https://josephloporto.com/page/</link>
+        <description>Recent content in Pages on Joseph Loporto</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://josephloporto.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About me</title>
+        <link>https://josephloporto.com/about-me/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://josephloporto.com/about-me/</guid>
+        <description>&lt;p&gt;Growing up in Delaware, I became interested in programming from a young age. At around 12 years old I began to try and understand C code in order to tinker with RPG maker. Though as you can imagine this did not go well for a 12 year old, this curiosity laid the groundwork for the coming years, where I would begin in my early teens to program in visual basic, and TI basic. Continuing on to college, I carried with me an obsession for optimization and performance.&lt;/p&gt;
+&lt;p&gt;Something that has frequently been an issue for my work as a computer scientist is the speed at which I wish to have a project completed. Often I will sprint to have a minimum viable product created for the sake of showing to those I wish to, such as when creating my discord bot. This leads to various issues such as degradation of quality. On the flip side of this, I struggle as many of us do with the idea of perfection. When I take time to be meticulous, and comb over details of a program, I will sometimes become so enthralled, than when I take a step back I see I have not done much, such as when creating my ant pathfinding simulation.&lt;/p&gt;
+&lt;p&gt;At the intersection of these two issues I now seek to maintain a state of quality when I work. Though I am also careful to make progress when necessary. On a larger level the works I have completed, and not completed in the last couple of years have taught me to be a steady worker, while also valuing quality. To supervise ourselves in our work in both quality and speed is truly a lifelong journey we all constantly refine.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Released Projects</title>
+        <link>https://josephloporto.com/released-projects/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://josephloporto.com/released-projects/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://josephloporto.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://josephloporto.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

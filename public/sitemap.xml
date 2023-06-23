@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://josephloporto.com/p/doneproj/</loc></url><url><loc>https://josephloporto.com/</loc></url><url><loc>https://josephloporto.com/about-me/</loc></url><url><loc>https://josephloporto.com/categories/</loc></url><url><loc>https://josephloporto.com/categories/general/</loc></url><url><loc>https://josephloporto.com/p/inprog/</loc></url><url><loc>https://josephloporto.com/page/</loc></url><url><loc>https://josephloporto.com/post/</loc></url><url><loc>https://josephloporto.com/p/planning/</loc></url><url><loc>https://josephloporto.com/public-resume/</loc></url><url><loc>https://josephloporto.com/released-projects/</loc></url><url><loc>https://josephloporto.com/search/</loc></url><url><loc>https://josephloporto.com/tags/</loc></url><url><loc>https://josephloporto.com/p/introduction/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://josephloporto.com/p/doneproj/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/about-me/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/categories/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/categories/general/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/p/inprog/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/page/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/post/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/p/planning/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/public-resume/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/released-projects/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/search/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/tags/</loc>
+  </url><url>
+    <loc>https://josephloporto.com/p/introduction/</loc>
+  </url>
+</urlset>
